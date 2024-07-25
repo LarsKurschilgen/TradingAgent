@@ -1,6 +1,6 @@
 # TradingAgent
 ## Description
-Within this project, a Trading Agent is developed to learn how to trade the Apple stock. The agent can perform three actions: Hold, Buy, and Sell. The goal of the agent is not to make long-term trading decisions but to exploit short-term price fluctuations like a day trader.
+Within this project, a Trading Agent is developed to learn how to trade the Apple stock. The agent can perform three actions: Hold, Buy, and Sell. The goal of the agent is to make trading decisions and exploit price fluctuations like a trader.
 
 ### Environment
 
